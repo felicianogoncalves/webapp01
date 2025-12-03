@@ -9,4 +9,10 @@ Ir ao site www.asp.net e descarregar os runtimes para criar applicação - Done
 Instalar runtime na maquina fisica - Done
 
 ## Passo 3:
-Clonar o repositorio remoto para c:AwsBraga
+Clonar o repositorio remoto para c:AwsBraga - Done
+
+## Passo 4:
+Criar e testar a Web App Blazor Calendario - Done
+
+## Passo 5:
+Criar Dockerfile para App Blazor Calendario
